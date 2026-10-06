@@ -1,0 +1,14 @@
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="512" height="512" rx="128" fill="#133e28" />
+  <rect x="12" y="12" width="488" height="488" rx="116" stroke="#ca8a04" stroke-opacity="0.3" stroke-width="8" />
+  <!-- Horizon line -->
+  <path d="M80 340C140 310 210 300 256 300C302 300 372 310 432 340" stroke="#ca8a04" stroke-width="20" stroke-linecap="round" />
+  <!-- Bovine horns -->
+  <path d="M140 150C160 200 190 220 256 220C322 220 352 200 372 150" stroke="#fef08a" stroke-width="24" stroke-linecap="round" />
+  <!-- Head muzzle -->
+  <path d="M210 220L200 330C200 356 224 372 256 372C288 372 312 356 312 330L302 220" stroke="#ffffff" stroke-width="22" stroke-linejoin="round" stroke-linecap="round" />
+  <!-- Leaf -->
+  <path d="M312 180C350 160 380 180 370 220C330 220 312 200 312 180Z" fill="#34d399" />
+  <!-- Forehead star -->
+  <circle cx="256" cy="265" r="14" fill="#facc15" />
+</svg>
